@@ -1,4 +1,4 @@
-# Basketball Manager
+1.0 # Basketball Manager
 
 A basketball management game prototype written in C.
 
@@ -20,3 +20,8 @@ A basketball management game prototype written in C.
 - Structures
 - Arrays
 - Pointers
+  1.1
+
+  Plus few teams
+  Plus New check on failure
+  Plus New Menu
